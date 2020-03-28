@@ -1,3 +1,14 @@
 # Golang learning
 ## Points
-- go provides the best of both worlds, by striking a balance between dynamic and statically compiled languages. The code is easy to read, the specification is short, but even so, it includes a built-in web server
+- Go provides the best of both worlds, by striking a balance between dynamic and statically compiled languages. 
+  - strong and staticly typed.
+- Fast compile time
+- Garbage collected
+- Built-in concurrency
+- Compile to standalone binaries. (All compiled code in one file.)
+
+NOTE - Go send error if declared variable is not use. 
+
+## Resources
+- [Golang.org](https://golang.org/) - with palyground
+- [Golangbridge.org](https://golangbridge.org/) - community
